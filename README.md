@@ -31,8 +31,8 @@ A live D2C store for handcrafted paper flowers at [flowher.in](https://flowher.i
 
 ## Tech I work with
 
-- **Languages:** C#, SQL, JavaScript, Python, HTML, CSS
-- **Frameworks:** .NET Core, ASP.NET MVC, Blazor, Entity Framework Core, RESTful APIs
+- **Languages:** C#, SQL, JavaScript, TypeScript, Python, HTML, CSS
+- **Frameworks:** .NET Core, ASP.NET MVC, Blazor, Entity Framework Core, React, RESTful APIs
 - **Data and tools:** SQL Server, PostgreSQL, MySQL, Azure, Azure DevOps, Git, CI/CD, NUnit, GA4
 - **Practices:** Agile/Scrum, requirements and user stories, API performance, accessibility (WCAG), AI-assisted development
 
